@@ -1,0 +1,8 @@
+{
+  "model": "ResNet-50 Transfer Learning",
+  "test_accuracy": 91.97994987468671,
+  "real_accuracy": 86.56330749354005,
+  "fake_accuracy": 97.08029197080292,
+  "val_accuracy": 92.84818067754078,
+  "final_train_loss": 0.1222997618544226
+}

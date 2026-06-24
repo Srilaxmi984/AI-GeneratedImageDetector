@@ -1,0 +1,92 @@
+[
+  {
+    "image_idx": 0,
+    "image_path": "('data\\\\sampled_subset\\\\real\\\\0456 (10).jpg',)",
+    "true_label": "REAL",
+    "predicted_label": "REAL",
+    "confidence": 0.5612624287605286,
+    "is_correct": true,
+    "visualization": "grad_cam_results\\sample_00_REAL_56pct.png"
+  },
+  {
+    "image_idx": 1,
+    "image_path": "('data\\\\sampled_subset\\\\fake\\\\5563 (4).jpg',)",
+    "true_label": "FAKE",
+    "predicted_label": "FAKE",
+    "confidence": 0.996406614780426,
+    "is_correct": true,
+    "visualization": "grad_cam_results\\sample_01_FAKE_100pct.png"
+  },
+  {
+    "image_idx": 2,
+    "image_path": "('data\\\\sampled_subset\\\\real\\\\0089 (7).jpg',)",
+    "true_label": "REAL",
+    "predicted_label": "REAL",
+    "confidence": 0.9874153733253479,
+    "is_correct": true,
+    "visualization": "grad_cam_results\\sample_02_REAL_99pct.png"
+  },
+  {
+    "image_idx": 3,
+    "image_path": "('data\\\\sampled_subset\\\\fake\\\\2910 (2).jpg',)",
+    "true_label": "FAKE",
+    "predicted_label": "FAKE",
+    "confidence": 0.9997597336769104,
+    "is_correct": true,
+    "visualization": "grad_cam_results\\sample_03_FAKE_100pct.png"
+  },
+  {
+    "image_idx": 4,
+    "image_path": "('data\\\\sampled_subset\\\\real\\\\2307 (3).jpg',)",
+    "true_label": "REAL",
+    "predicted_label": "REAL",
+    "confidence": 0.9546838998794556,
+    "is_correct": true,
+    "visualization": "grad_cam_results\\sample_04_REAL_95pct.png"
+  },
+  {
+    "image_idx": 5,
+    "image_path": "('data\\\\sampled_subset\\\\real\\\\3687 (5).jpg',)",
+    "true_label": "REAL",
+    "predicted_label": "REAL",
+    "confidence": 0.9999985694885254,
+    "is_correct": true,
+    "visualization": "grad_cam_results\\sample_05_REAL_100pct.png"
+  },
+  {
+    "image_idx": 6,
+    "image_path": "('data\\\\sampled_subset\\\\real\\\\0937 (10).jpg',)",
+    "true_label": "REAL",
+    "predicted_label": "REAL",
+    "confidence": 0.999992847442627,
+    "is_correct": true,
+    "visualization": "grad_cam_results\\sample_06_REAL_100pct.png"
+  },
+  {
+    "image_idx": 7,
+    "image_path": "('data\\\\sampled_subset\\\\fake\\\\5146 (4).jpg',)",
+    "true_label": "FAKE",
+    "predicted_label": "FAKE",
+    "confidence": 0.9999808073043823,
+    "is_correct": true,
+    "visualization": "grad_cam_results\\sample_07_FAKE_100pct.png"
+  },
+  {
+    "image_idx": 8,
+    "image_path": "('data\\\\sampled_subset\\\\real\\\\2439 (4).jpg',)",
+    "true_label": "REAL",
+    "predicted_label": "REAL",
+    "confidence": 0.9999159574508667,
+    "is_correct": true,
+    "visualization": "grad_cam_results\\sample_08_REAL_100pct.png"
+  },
+  {
+    "image_idx": 9,
+    "image_path": "('data\\\\sampled_subset\\\\fake\\\\1541 (6).jpg',)",
+    "true_label": "FAKE",
+    "predicted_label": "FAKE",
+    "confidence": 0.9999951124191284,
+    "is_correct": true,
+    "visualization": "grad_cam_results\\sample_09_FAKE_100pct.png"
+  }
+]
