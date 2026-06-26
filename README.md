@@ -8,6 +8,8 @@ Think of this README as your complete project diary. It explains **what you buil
 # 🚀 Start Here
 
 * 🌐 Live Streamlit Demo
+* 🌐 Streamlit Deployment
+* https://ai-generatedimagedetector-nczua2klxdzinlaz4cvfze.streamlit.app/
 * 💻 GitHub Repository
 * 🎯 What this project does
 * ⭐ Key Features
